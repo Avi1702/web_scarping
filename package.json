@@ -1,0 +1,23 @@
+{
+  "name": "web-scarping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avi1702/web-scarping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avi1702/web-scarping/issues"
+  },
+  "homepage": "https://github.com/Avi1702/web-scarping#readme",
+  "dependencies": {
+    "puppeteer": "^18.2.1"
+  }
+}
